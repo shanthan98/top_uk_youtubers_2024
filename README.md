@@ -1,8 +1,8 @@
 # Data Portfolio: Excel to Power BI 
 
-
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
+![Data_Analyst](assets/images/profile_pic.jpeg)
 
 
 
